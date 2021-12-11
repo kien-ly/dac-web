@@ -1,4 +1,4 @@
-/ create an express app
+// create an express app
 const express = require("express")
 const app = express()
 
